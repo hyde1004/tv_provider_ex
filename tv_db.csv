@@ -1,0 +1,447 @@
+_id,package_name,input_id,type,service_type,original_network_id,transport_stream_id,service_id,display_number,display_name,network_affiliation,description,video_format,browsable,searchable,selectable,locked,app_link_icon_uri,app_link_poster_art_uri,app_link_text,app_link_color,app_link_intent_uri,internal_provider_data,internal_provider_flag1,internal_provider_flag2,internal_provider_flag3,internal_provider_flag4,logo,version_number,channel_genre,cam_channel
+2692,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&99&99&,172,1,7999,99,Airtel Offers 1,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2693,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&100&100&,172,11,12112,100,Airtel HD Home,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2694,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&101&101&,172,11,12173,101,Airtel Offers 2,,,,1,1,1,0,,,,,,,,,,,,,1&17&,0
+2695,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&102&102&,172,5,1101,102,Star Plus,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2696,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&103&103&,172,10,10125,103,Star Plus HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&17&,0
+2697,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&104&104&,172,11,1102,104,Zee TV,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2698,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&105&105&,172,10,11127,105,Zee TV HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&17&,0
+2699,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&106&106&,172,3,1103,106,SET,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2700,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&107&107&,172,10,12013,107,SET HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&17&,0
+2701,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&108&108&,172,2,1104,108,Life OK,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2702,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&109&109&,172,8,12179,109,Life OK HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&17&,0
+2703,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&110&110&,172,11,5114,110,Colors,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2704,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&111&111&,172,10,10126,111,Colors HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&17&,0
+2705,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&112&112&,172,11,12224,112,& TV,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2706,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&113&113&,172,6,12240,113,& TV HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&17&,0
+2707,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&114&114&,172,1,2124,114,HomeShop 18,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2708,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&115&115&,172,1,12072,115,Shop CJ,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2709,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&116&116&,172,2,12069,116,Big Magic,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2710,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&117&117&,172,6,1109,117,SAB,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2711,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&119&119&,172,6,12128,119,Rishtey,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2712,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&120&120&,172,7,5111,120,Star Utsav,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2713,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&121&121&,172,7,12030,121,Customer Care,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2714,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&122&122&,172,3,12183,122,Sony Pal,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2715,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&123&123&,172,9,12158,123,Zindagi,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2716,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&124&124&,172,3,2115,124,Bindass,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2717,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&125&125&,172,9,13121,125,Gemporia,,,,1,1,1,0,,,,,,,,,,,,,1&17&,0
+2718,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&126&126&,172,1,12212,126,The EPIC Channel,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2719,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&127&127&,172,6,12130,127,Zee Anmol,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2720,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&128&128&,172,1,12192,128,Naaptol Blue,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2721,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&131&131&,172,1,1107,131,Enterr 10,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2722,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&133&133&,172,1,12207,133,ID,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2723,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&135&135&,172,7,11633,135,Dangal,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&17&71&,0
+2724,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&136&136&,172,2,3108,136,DD1,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2725,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&138&138&,172,1,12108,138,DD India,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2726,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&140&140&,172,1,3113,140,DD Bharati,,,,1,1,1,0,,,,,,,,,,,,,2&14&17&,0
+2727,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&141&141&,172,1,12245,141,DD Kisan,,,,1,1,1,0,,,,,,,,,,,,,2&4&14&,0
+2728,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&144&144&,172,7,1135,144,AXN,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2729,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&145&145&,172,10,13001,145,AXN HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&18&,0
+2730,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&147&147&,172,12,12129,147,STAR WORLD PREMIERE HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&18&,0
+2731,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&148&148&,172,3,1136,148,STAR WORLD,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2732,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&149&149&,172,8,10150,149,STAR WORLD HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&18&,0
+2733,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&150&150&,172,11,5137,150,Zee Cafe,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2734,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&151&151&,172,8,13076,151,Zee Cafe HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&15&18&,0
+2735,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&152&152&,172,4,4142,152,FX,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2736,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&153&153&,172,8,13071,153,FX HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&18&,0
+2737,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&154&154&,172,5,12250,154,Colors Infinity,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2738,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&155&155&,172,6,13063,155,COLORS INFINITY HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&14&15&18&,0
+2739,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&156&156&,172,11,2145,156,Comedy Central,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2740,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&157&157&,172,9,12216,157,TV5 Monde Asia,,,,1,1,1,0,,,,,,,,,,,,,2&14&18&,0
+2741,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&159&159&,172,11,12175,159,Airtel Movies 2,,,,1,1,1,0,,,,,,,,,,,,,3&1&11&32&,0
+2742,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&160&160&,172,11,7180,160,Airtel Movies 1,,,,1,1,1,0,,,,,,,,,,,,,3&1&11&32&,0
+2743,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&162&162&,172,8,13018,162,MINIPLEX,,,,1,1,1,0,,,,,,,,,,,,,3&1&11&32&,0
+2744,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&163&163&,172,8,13044,163,MINIPLEX HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&1&11&15&32&,0
+2745,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&164&164&,172,8,13083,164,Sadabahar Hitz,,,,1,1,1,0,,,,,,,,,,,,,2&1&11&,0
+2746,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&165&165&,172,11,12137,165,Sony Max SUPER HITZ,,,,1,1,1,0,,,,,,,,,,,,,4&1&11&14&32&,0
+2747,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&166&166&,172,5,1160,166,MAX,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2748,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&167&167&,172,12,13045,167,Sony MAX HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&32&,0
+2749,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&168&168&,172,11,1161,168,Zee Cinema,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2750,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&169&169&,172,10,12003,169,Zee Cinema HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&32&,0
+2751,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&170&170&,172,3,1162,170,Star Gold,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2752,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&171&171&,172,8,10180,171,Star Gold HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&32&,0
+2753,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&172&172&,172,2,12009,172,Movies OK,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2754,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&173&173&,172,3,12156,173,Sony Max 2,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2755,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&174&174&,172,11,12131,174,& Pictures,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2756,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&175&175&,172,5,12203,175,& Pictures HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&32&,0
+2757,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&176&176&,172,3,1165,176,UTV Movies,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2758,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&178&178&,172,9,8167,178,Zee Classic,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2759,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&179&179&,172,9,12034,179,Zee Action,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2760,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&180&180&,172,11,13019,180,UTV Action,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2761,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&181&181&,172,6,13081,181,RISHTEY CINEPLEX,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2762,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&182&182&,172,3,12014,182,Cinema TV,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2763,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&183&183&,172,1,13004,183,WOW Cinema,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2764,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&185&185&,172,1,13060,185,Multiplex,,,,1,1,1,0,,,,,,,,,,,,,2&1&32&,0
+2765,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&191&191&,172,11,4158,191,MOVIE MANIA,,,,1,1,1,0,,,,,,,,,,,,,3&1&11&32&,0
+2766,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&192&192&,172,5,1190,192,Star Movies,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2767,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&193&193&,172,8,10211,193,Star Movies HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2768,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&194&194&,172,7,1191,194,HBO,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2769,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&195&195&,172,12,12239,195,HBO HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&1&11&15&33&,0
+2770,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&196&196&,172,6,3192,196,PIX,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2771,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&197&197&,172,8,12197,197,PIX HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2772,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&198&198&,172,4,4197,198,Movies Now,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2773,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&199&199&,172,8,9198,199,MN+,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2774,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&200&200&,172,5,12249,200,Star Movies Select HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2775,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&201&201&,172,12,13088,201,MOVIES NOW HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2776,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&202&202&,172,2,12126,202,Romedy Now,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2777,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&203&203&,172,5,13084,203,ROMEDY NOW HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2778,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&204&204&,172,11,5193,204,Zee Studio,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2779,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&205&205&,172,10,12050,205,Zee Studio HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2780,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&206&206&,172,2,8196,206,WB,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2781,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&207&207&,172,4,12004,207,Star Movies Action,,,,1,1,1,0,,,,,,,,,,,,,2&1&33&,0
+2782,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&209&209&,172,4,13124,209,Movies Now 2,,,,1,1,1,0,,,,,,,,,,,,,3&1&14&33&,0
+2783,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&210&210&,172,8,13152,210,Movies Now 2 HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2784,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&216&216&,172,12,13142,216,Le PLEX HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&1&15&33&,0
+2785,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&220&220&,172,3,2226,220,Star Sports 1,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2786,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&221&221&,172,12,11221,221,Star Sports HD 1,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2787,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&222&222&,172,3,12066,222,Star Sports 2,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2788,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&223&223&,172,12,11220,223,Star Sports HD 2,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2789,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&224&224&,172,2,2227,224,Star Sports 3,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2790,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&225&225&,172,8,12220,225,Star Sports HD 3,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2791,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&226&226&,172,5,2225,226,Star Sports 4,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2792,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&227&227&,172,8,12225,227,Star Sports HD 4,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2793,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&230&230&,172,11,2230,230,Ten 1,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2794,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&231&231&,172,10,5223,231,Ten 1 HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2795,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&232&232&,172,11,2231,232,Ten 2,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2796,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&234&234&,172,11,3224,234,Ten 3,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2797,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&236&236&,172,3,12045,236,SIX,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2798,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&237&237&,172,10,12049,237,SIX HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2799,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&238&238&,172,1,2228,238,Neo Sports,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2800,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&240&240&,172,1,2229,240,Neo Prime,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2801,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&242&242&,172,3,12230,242,Sony ESPN,,,,1,1,1,0,,,,,,,,,,,,,3&2&7&62&,0
+2802,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&243&243&,172,12,13085,243,Sony ESPN HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2803,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&244&244&,172,1,2232,244,DD Sports,,,,1,1,1,0,,,,,,,,,,,,,1&2&,0
+2804,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&245&245&,172,12,13134,245,Star Sports Select HD 1,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2805,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&246&246&,172,12,13135,246,Star Sports Select HD 2,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&2&15&,0
+2806,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&250&250&,172,7,6275,250,ABP News,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2807,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&252&252&,172,11,6276,252,Zee News,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2808,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&254&254&,172,5,6277,254,Aaj Tak,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2809,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&255&255&,172,6,3278,255,India TV,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2810,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&256&256&,172,5,6279,256,NDTV India,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2811,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&257&257&,172,2,3281,257,News18 India,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2812,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&258&258&,172,2,12065,258,News Nation,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2813,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&259&259&,172,7,4296,259,India News,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2814,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&260&260&,172,5,8282,260,News24,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2815,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&261&261&,172,1,13035,261,News World India,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2816,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&263&263&,172,1,13059,263,Prime news,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2817,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&266&266&,172,1,12242,266,Sudarshan News,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2818,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&267&267&,172,4,13155,267,APN NEWS,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2819,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&268&268&,172,2,6285,268,CNBC Awaaz,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2820,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&270&270&,172,11,6286,270,Zee Business,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2821,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&272&272&,172,3,8287,272,ETV Bihar Jharkhand,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&58&71&,0
+2822,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&274&274&,172,2,8288,274,ETV Rajasthan,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2823,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&276&276&,172,9,12143,276,Zee Rajasthan News,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2824,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&278&278&,172,7,5289,278,ETV UP/Uttarakhand,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2825,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&279&279&,172,3,13061,279,SAMACHAR PLUS,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2826,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&280&280&,172,7,12032,280,India 24X7,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2827,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&281&281&,172,2,13106,281,National Voice,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2828,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&282&282&,172,6,8292,282,ETV MP Chhattisgarh,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2829,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&284&284&,172,1,13156,284,IBC 24,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2830,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&285&285&,172,9,12195,285,ZEE MP CHATTISGARH,,,,1,1,1,0,,,,,,,,,,,,,1&7&,0
+2831,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&288&288&,172,6,12151,288,ETV Haryana HimachalPradesh,,,,1,1,1,0,,,,,,,,,,,,,3&3&7&47&,0
+2832,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&290&290&,172,1,3280,290,DD News,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2833,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&292&292&,172,1,3283,292,Loksabha TV,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2834,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&294&294&,172,1,3284,294,RSTV,,,,1,1,1,0,,,,,,,,,,,,,2&3&47&,0
+2835,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&296&296&,172,4,12105,296,DD Bihar,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&28&71&,0
+2836,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&298&298&,172,9,12107,298,DD Rajasthan,,,,1,1,1,0,,,,,,,,,,,,,3&7&14&17&,0
+2837,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&299&299&,172,1,12106,299,DD UP,,,,1,1,1,0,,,,,,,,,,,,,3&7&14&17&,0
+2838,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&302&302&,172,11,12104,302,DD Madhya Pradesh,,,,1,1,1,0,,,,,,,,,,,,,3&7&14&17&,0
+2839,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&304&304&,172,3,3300,304,Times Now,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2840,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&306&306&,172,7,6301,306,NDTV 24x7,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2841,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&308&308&,172,5,6302,308,CNN News18,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2842,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&310&310&,172,5,6303,310,INDIA TODAY,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2843,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&311&311&,172,5,12036,311,NewsX,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2844,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&312&312&,172,4,6304,312,CNBC TV18,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2845,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&313&313&,172,2,2309,313,ET Now,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2846,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&314&314&,172,3,6305,314,NDTV Profit Prime,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2847,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&315&315&,172,4,13133,315,Bloomberg,,,,1,1,1,0,,,,,,,,,,,,,1&48&,0
+2848,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&316&316&,172,1,6306,316,BTVi,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2849,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&317&317&,172,6,13082,317,Magicbricks Now,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2850,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&318&318&,172,4,13137,318,WION,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2851,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&319&319&,172,4,3307,319,BBC World News,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2852,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&320&320&,172,6,1308,320,CNN International,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2853,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&321&321&,172,4,12219,321,Al Jazeera,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2854,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&322&322&,172,7,7311,322,RT,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2855,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&323&323&,172,7,12218,323,DW TV,,,,1,1,1,0,,,,,,,,,,,,,2&3&48&,0
+2856,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&324&324&,172,4,13125,324,NHK WORLD,,,,1,1,1,0,,,,,,,,,,,,,4&3&14&48&75&,0
+2857,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&325&325&,172,6,3325,325,TLC,,,,1,1,1,0,,,,,,,,,,,,,1&8&,0
+2858,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&326&326&,172,3,3326,326,NDTV Good Times,,,,1,1,1,0,,,,,,,,,,,,,1&8&,0
+2859,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&327&327&,172,1,4327,327,Food Food,,,,1,1,1,0,,,,,,,,,,,,,1&8&,0
+2860,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&328&328&,172,9,12145,328,LIVING FOODZ,,,,1,1,1,0,,,,,,,,,,,,,1&8&,0
+2861,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&329&329&,172,1,13064,329,Travel XP,,,,1,1,1,0,,,,,,,,,,,,,1&8&,0
+2862,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&331&331&,172,9,13052,331,FTV,,,,1,1,1,0,,,,,,,,,,,,,2&8&14&,0
+2863,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&336&336&,172,12,13031,336,Fox Life HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&4&15&,0
+2864,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&337&337&,172,10,2137,337,History TV18 HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&4&15&,0
+2865,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&338&338&,172,10,9338,338,Discovery HD World,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&4&15&,0
+2866,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&339&339&,172,10,1339,339,National Geographic HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&4&15&,0
+2867,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&340&340&,172,3,3340,340,Discovery Channel,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2868,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&341&341&,172,3,5341,341,National Geographic,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2869,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&342&342&,172,6,5342,342,FOX LIFE,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2870,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&343&343&,172,3,3343,343,Animal Planet,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2871,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&345&345&,172,9,13130,345,FYI TV18,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2872,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&346&346&,172,9,4346,346,Discovery Science,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2873,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&347&347&,172,9,4347,347,Discovery Turbo,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2874,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&348&348&,172,9,9348,348,History TV18,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2875,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&349&349&,172,4,12033,349,Nat Geo Wild,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2876,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&351&351&,172,1,12048,351,NAT GEO People,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2877,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&354&354&,172,7,12052,354,Nick Junior,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2878,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&355&355&,172,3,2355,355,Cartoon Network,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2879,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&356&356&,172,4,2356,356,Pogo,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2880,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&357&357&,172,2,2357,357,Hungama,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2881,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&358&358&,172,3,2359,358,Nick,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2882,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&359&359&,172,2,2358,359,Disney XD,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2883,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&360&360&,172,3,2360,360,Disney Channel,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2884,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&362&362&,172,5,11362,362,Sonic,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2885,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&363&363&,172,4,12044,363,Discovery Kids,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2886,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&364&364&,172,6,13020,364,Disney Junior,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2887,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&365&365&,172,9,12147,365,Baby TV,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2888,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&366&366&,172,9,12153,366,Zee Q,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2889,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&367&367&,172,7,12248,367,Toonami,,,,1,1,1,0,,,,,,,,,,,,,1&5&,0
+2890,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&9&369&369&,172,10,13070,369,NICK HD+,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&5&15&,0
+2891,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&370&370&,172,4,6345,370,Topper,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2892,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&380&380&,172,3,6380,380,MTV,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2893,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&381&381&,172,4,12148,381,MTV Beats,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2894,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&382&382&,172,2,6382,382,9XM,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2895,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&383&383&,172,4,6383,383,B4U Music,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2896,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&384&384&,172,2,6384,384,Z ETC Bollywood,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2897,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&385&385&,172,4,4385,385,Mastiii,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2898,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&386&386&,172,9,6386,386,VH1,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2899,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&387&387&,172,4,4387,387,E24,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2900,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&388&388&,172,11,4388,388,SONY MIX,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2901,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&389&389&,172,7,12075,389,9X Jalwa,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2902,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&391&391&,172,6,12120,391,M Tunes HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,2&6&15&,0
+2903,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&392&392&,172,9,13021,392,Bindass play,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2904,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&393&393&,172,6,6110,393,Zoom,,,,1,1,1,0,,,,,,,,,,,,,2&6&14&,0
+2905,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&394&394&,172,11,6381,394,Channel V,,,,1,1,1,0,,,,,,,,,,,,,2&6&14&,0
+2906,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&395&395&,172,9,13056,395,Music India,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2907,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&396&396&,172,1,12208,396,9XO,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2908,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&480&480&,172,3,13047,480,Aseervatham TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2909,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&481&481&,172,11,12059,481,THANGA THIRAI,,,,1,1,1,0,,,,,,,,,,,,,3&7&11&62&,0
+2910,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&483&483&,172,7,4518,483,Captain TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2911,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&485&485&,172,5,12226,485,Sun Music HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&11&15&62&,0
+2912,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&486&486&,172,3,1510,486,Isai Aruvi,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2913,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&487&487&,172,3,12214,487,Sun Life,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2914,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&488&488&,172,7,12201,488,News 7 Tamil,,,,1,1,1,0,,,,,,,,,,,,,5&3&7&14&49&62&,0
+2915,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&489&489&,172,7,12241,489,Raj Digital Plus,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2916,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&490&490&,172,6,12157,490,Sun TV HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&7&11&15&62&,0
+2917,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&491&491&,172,7,1499,491,Puthiya Thalaimurai,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+2918,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&492&492&,172,7,12084,492,Mega TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2919,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&493&493&,172,4,12081,493,J Movies,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&34&62&,0
+2920,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&494&494&,172,6,12056,494,Murasu,,,,1,1,1,0,,,,,,,,,,,,,3&6&7&62&,0
+2921,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&495&495&,172,5,12057,495,Seithigal 24X7,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+2922,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&496&496&,172,7,13032,496,Polimer News,,,,1,1,1,0,,,,,,,,,,,,,1&62&,0
+2923,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&497&497&,172,2,12047,497,Thanthi TV,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+2924,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&498&498&,172,8,12008,498,Zee Tamil,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2925,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&499&499&,172,4,12117,499,Puthu Yugam,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2926,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&500&500&,172,7,7500,500,Sun TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2927,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&501&501&,172,1,7501,501,KTV,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&34&62&,0
+2928,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&502&502&,172,1,5502,502,Star Vijay,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2929,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&503&503&,172,2,5503,503,Kalaignar TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2930,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&504&504&,172,2,3504,504,Jaya TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2931,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&505&505&,172,7,7505,505,Sun Music,,,,1,1,1,0,,,,,,,,,,,,,3&6&7&62&,0
+2932,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&506&506&,172,4,1506,506,Chutti TV,,,,1,1,1,0,,,,,,,,,,,,,3&5&7&62&,0
+2933,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&507&507&,172,2,3507,507,Raj TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2934,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&508&508&,172,2,7508,508,Sun News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+2935,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&509&509&,172,2,3509,509,Jaya Plus,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+2936,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&510&510&,172,4,12043,510,Discovery Tamil,,,,1,1,1,0,,,,,,,,,,,,,1&4&,0
+2937,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&511&511&,172,11,2516,511,Polimer TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2938,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&512&512&,172,2,2512,512,Sirippoli,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2939,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&513&513&,172,4,7513,513,Makkal TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2940,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&514&514&,172,4,7514,514,Angel TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2941,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&515&515&,172,5,3515,515,Jaya Max,,,,1,1,1,0,,,,,,,,,,,,,2&7&62&,0
+2942,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&516&516&,172,6,8511,516,DD Podhigai,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2943,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&517&517&,172,2,7517,517,Adithya TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2944,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&518&518&,172,4,12146,518,Vendhar TV,,,,1,1,1,0,,,,,,,,,,,,,2&14&19&,0
+2945,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&519&519&,172,7,4519,519,Vasanth TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&19&62&,0
+2946,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&520&520&,172,1,7520,520,Gemini TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&20&63&,0
+2947,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&521&521&,172,3,7521,521,Eenadu TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&20&63&,0
+2948,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&522&522&,172,1,7533,522,Gemini Movies,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&35&63&,0
+2949,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&523&523&,172,6,5523,523,Maa TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&20&63&,0
+2950,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&524&524&,172,11,7524,524,Zee Telugu,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&20&63&,0
+2951,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&525&525&,172,3,7525,525,ETV Andhra Pradesh,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&50&63&,0
+2952,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&526&526&,172,6,3526,526,TV9 Telugu News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&50&63&,0
+2953,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&527&527&,172,3,2527,527,Gemini Music,,,,1,1,1,0,,,,,,,,,,,,,3&6&7&63&,0
+2954,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&528&528&,172,3,2528,528,NTV,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&50&63&,0
+2955,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&529&529&,172,11,12001,529,DD Yadagiri,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&20&63&,0
+2956,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&530&530&,172,3,7530,530,SVBC,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2957,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&531&531&,172,3,2531,531,Subhavaartha,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2958,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&532&532&,172,2,9538,532,Maa Music,,,,1,1,1,0,,,,,,,,,,,,,3&6&7&63&,0
+2959,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&533&533&,172,2,7522,533,Gemini Comedy,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&20&63&,0
+2960,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&534&534&,172,3,4534,534,Sakshi TV,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&50&63&,0
+2961,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&535&535&,172,3,12053,535,ABN Telugu News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&50&63&,0
+2962,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&536&536&,172,6,4536,536,TV5 Telugu,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&50&63&,0
+2963,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&537&537&,172,3,9537,537,Maa Movies,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&35&63&,0
+2964,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&538&538&,172,6,12089,538,Maa Gold,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2965,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&539&539&,172,6,12139,539,V6 News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&50&63&,0
+2966,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&540&540&,172,8,12169,540,Gemini TV HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,6&7&11&14&15&20&63&,0
+2967,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&541&541&,172,2,12187,541,Kushi TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2968,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&542&542&,172,3,12185,542,Gemini Life,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2969,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&543&543&,172,3,12199,543,T News,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2970,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&544&544&,172,11,12227,544,DD Saptagiri,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2971,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&545&545&,172,3,12247,545,ETV Telangana,,,,1,1,1,0,,,,,,,,,,,,,3&7&14&63&,0
+2972,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&546&546&,172,2,12237,546,10 TV Telugu News,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2973,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&548&548&,172,11,13074,548,ETV PLUS,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+2974,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&549&549&,172,3,12076,549,9X Jhakaas,,,,1,1,1,0,,,,,,,,,,,,,2&7&64&,0
+2975,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&550&550&,172,11,5550,550,Zee Marathi,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&21&64&,0
+2976,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&551&551&,172,3,1551,551,Colors Marathi,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&21&64&,0
+2977,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&552&552&,172,4,5552,552,ABP Majha,,,,1,1,1,0,,,,,,,,,,,,,6&3&7&14&21&51&64&,0
+2978,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&553&553&,172,11,3553,553,Zee Talkies,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&36&64&,0
+2979,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&554&554&,172,7,7554,554,Saam TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&21&64&,0
+2980,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&555&555&,172,4,8555,555,Star Pravah,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&21&64&,0
+2981,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&556&556&,172,4,5556,556,Mi Marathi,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&21&64&,0
+2982,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&557&557&,172,5,5557,557,IBN Lokmat,,,,1,1,1,0,,,,,,,,,,,,,2&7&64&,0
+2983,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&558&558&,172,6,8558,558,Zee 24 Taas,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&51&64&,0
+2984,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&559&559&,172,11,8554,559,DD Sahyadri,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&21&64&,0
+2985,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&560&560&,172,9,12121,560,Maiboli,,,,1,1,1,0,,,,,,,,,,,,,2&7&64&,0
+2986,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&561&561&,172,7,12200,561,TV9 Marathi,,,,1,1,1,0,,,,,,,,,,,,,2&7&64&,0
+2987,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&563&563&,172,7,13038,563,Fakt Marathi,,,,1,1,1,0,,,,,,,,,,,,,2&7&64&,0
+2988,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&565&565&,172,2,13053,565,Sangeet Marathi,,,,1,1,1,0,,,,,,,,,,,,,2&7&64&,0
+2989,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&566&566&,172,9,13140,566,Zee Yuva,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&21&64&,0
+2990,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&572&572&,172,6,13094,572,Colors Marathi HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&14&15&21&64&,0
+2991,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&574&574&,172,5,13091,574,Star Pravah HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&14&15&21&64&,0
+2992,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&7&580&580&,172,8,13132,580,Punjabi Tadka,,,,1,1,1,0,,,,,,,,,,,,,4&1&11&41&69&,0
+2993,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&581&581&,172,7,5581,581,MH1,,,,1,1,1,0,,,,,,,,,,,,,2&7&69&,0
+2994,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&582&582&,172,9,5582,582,Zee Punjab Haryana Himachal,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&26&69&,0
+2995,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&583&583&,172,5,8583,583,PTC Punjabi,,,,1,1,1,0,,,,,,,,,,,,,2&7&69&,0
+2996,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&584&584&,172,3,2584,584,PTC News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&56&69&,0
+2997,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&586&586&,172,3,6586,586,Chardikla Time TV,,,,1,1,1,0,,,,,,,,,,,,,3&7&9&69&,0
+2998,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&587&587&,172,2,7587,587,PTC Chakde,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+2999,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&588&588&,172,9,13129,588,Relam Chel,,,,1,1,1,0,,,,,,,,,,,,,3&11&40&68&,0
+3000,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&589&589&,172,1,12167,589,ETV News Gujarati,,,,1,1,1,0,,,,,,,,,,,,,2&7&68&,0
+3001,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&590&590&,172,1,1590,590,Colors Gujarati,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&25&68&,0
+3002,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&591&591&,172,1,5591,591,DD Girnar,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&25&68&,0
+3003,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&592&592&,172,1,5592,592,TV9 Gujarati,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&55&68&,0
+3004,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&593&593&,172,4,12163,593,CNBC Bajar,,,,1,1,1,0,,,,,,,,,,,,,2&7&68&,0
+3005,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&594&594&,172,5,12231,594,VTV Gujarati,,,,1,1,1,0,,,,,,,,,,,,,2&7&68&,0
+3006,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&595&595&,172,6,13016,595,Sandesh News,,,,1,1,1,0,,,,,,,,,,,,,1&68&,0
+3007,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&596&596&,172,1,12246,596,ETV News Odia,,,,1,1,1,0,,,,,,,,,,,,,3&7&14&70&,0
+3008,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&597&597&,172,2,13051,597,KANAK NEWS,,,,1,1,1,0,,,,,,,,,,,,,2&7&70&,0
+3009,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&598&598&,172,1,13003,598,Kalinga TV,,,,1,1,1,0,,,,,,,,,,,,,2&3&70&,0
+3010,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&599&599&,172,9,12115,599,MBC TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&70&,0
+3011,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&600&600&,172,3,7600,600,Colors Oriya,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&27&70&,0
+3012,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&601&601&,172,7,5601,601,OTV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&27&70&,0
+3013,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&602&602&,172,1,2602,602,DD Oriya,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&27&70&,0
+3014,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&603&603&,172,4,7603,603,Tarang TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&27&70&,0
+3015,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&604&604&,172,1,1604,604,Tarang Music,,,,1,1,1,0,,,,,,,,,,,,,3&6&7&70&,0
+3016,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&605&605&,172,6,9605,605,Prarthana TV,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3017,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&606&606&,172,11,12135,606,Zee Kalinga News,,,,1,1,1,0,,,,,,,,,,,,,2&7&70&,0
+3018,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&607&607&,172,1,12021,607,Sarthak TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&27&70&,0
+3019,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&608&608&,172,5,12244,608,Prameya news 7,,,,1,1,1,0,,,,,,,,,,,,,1&57&,0
+3020,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&610&610&,172,2,1610,610,ETV Urdu,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&30&73&,0
+3021,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&611&611&,172,1,5611,611,DD Urdu,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&30&73&,0
+3022,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&612&612&,172,1,8612,612,DD Kashir,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&30&73&,0
+3023,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&613&613&,172,2,11613,613,Zee Salaam,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&30&73&,0
+3024,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&617&617&,172,4,12165,617,Prag News,,,,1,1,1,0,,,,,,,,,,,,,2&7&72&,0
+3025,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&618&618&,172,4,12166,618,Rengoni TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&72&,0
+3026,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&619&619&,172,7,12127,619,Pratidin Time,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&59&72&,0
+3027,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&620&620&,172,6,13002,620,Assam Talks,,,,1,1,1,0,,,,,,,,,,,,,1&72&,0
+3028,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&621&621&,172,3,2621,621,News Live,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&59&72&,0
+3029,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&622&622&,172,4,8622,622,Nepal 1,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&31&74&,0
+3030,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&623&623&,172,6,6623,623,DD North East,,,,1,1,1,0,,,,,,,,,,,,,3&7&29&72&,0
+3031,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&624&624&,172,2,1624,624,DY365,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&59&72&,0
+3032,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&625&625&,172,3,1625,625,Rang,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&29&72&,0
+3033,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&626&626&,172,7,13143,626,JONACK,,,,1,1,1,0,,,,,,,,,,,,,2&29&72&,0
+3034,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&627&627&,172,4,12232,627,Ramdhenu,,,,1,1,1,0,,,,,,,,,,,,,2&7&72&,0
+3035,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&628&628&,172,4,12162,628,Big Ganga,,,,1,1,1,0,,,,,,,,,,,,,2&7&71&,0
+3036,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&630&630&,172,7,8125,630,Mahuaa TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&28&71&,0
+3037,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&633&633&,172,9,12122,633,Dabangg TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&71&,0
+3038,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&636&636&,172,7,13033,636,Oscar Movies,,,,1,1,1,0,,,,,,,,,,,,,1&71&,0
+3039,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&638&638&,172,2,13065,638,Sangeet Bhojpuri,,,,1,1,1,0,,,,,,,,,,,,,2&7&71&,0
+3040,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&640&640&,172,7,13066,640,BHOJPURI CINEMA,,,,1,1,1,0,,,,,,,,,,,,,2&7&71&,0
+3041,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&658&658&,172,1,6585,658,DD Punjabi,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&26&69&,0
+3042,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&659&659&,172,1,9659,659,9X Tashan,,,,1,1,1,0,,,,,,,,,,,,,1&6&,0
+3043,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&683&683&,172,1,12193,683,Prarthana Bhawan,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3044,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&684&684&,172,3,12113,684,Jinvani TV,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3045,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&685&685&,172,4,4697,685,Sadhna,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3046,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&686&686&,172,1,12168,686,Peace of Mind,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3047,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&688&688&,172,3,12051,688,Sri Sankara,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3048,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&689&689&,172,1,10689,689,Disha TV,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3049,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&690&690&,172,3,3690,690,Aastha,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3050,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&691&691&,172,3,3691,691,Sanskar,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3051,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&693&693&,172,11,2693,693,MH One Shraddha,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3052,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&695&695&,172,3,4695,695,GOD TV,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3053,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&696&696&,172,4,4696,696,Paras TV,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3054,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&698&698&,172,11,4698,698,Bhakti TV,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3055,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&699&699&,172,4,12209,699,Channel WIN,,,,1,1,1,0,,,,,,,,,,,,,3&7&9&73&,0
+3056,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&700&700&,172,3,13090,700,Arihant,,,,1,1,1,0,,,,,,,,,,,,,2&7&9&,0
+3057,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&701&701&,172,1,13072,701,Divya TV,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3058,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&702&702&,172,9,13123,702,Navgrah,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3059,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&703&703&,172,9,13128,703,Sarv Dharam Sangam,,,,1,1,1,0,,,,,,,,,,,,,1&9&,0
+3060,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&760&760&,172,11,5540,760,Zee Bangla,,,,1,1,1,0,,,,,,,,,,,,,2&7&66&,0
+3061,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&762&762&,172,3,1541,762,Colors Bangla,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&23&66&,0
+3062,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&763&763&,172,6,13093,763,Colors Bangla HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&14&15&23&66&,0
+3063,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&764&764&,172,3,3545,764,Star Jalsha,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&23&66&,0
+3064,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&765&765&,172,5,13086,765,STAR JALSHA HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&15&23&66&,0
+3065,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&766&766&,172,4,7548,766,Ruposhi Bangla TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&23&66&,0
+3066,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&768&768&,172,6,6546,768,DD Bangla,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&23&66&,0
+3067,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&770&770&,172,9,12055,770,Zee Bangla Cinema,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&38&66&,0
+3068,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&772&772&,172,9,12054,772,Jalsha Movies,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&38&66&,0
+3069,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&773&773&,172,5,13087,773,JALSHA MOVIES HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&15&38&66&,0
+3070,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&774&774&,172,11,3547,774,Sony Aath,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&38&66&,0
+3071,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&776&776&,172,5,5544,776,Zee 24 Ghanta,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&53&66&,0
+3072,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&778&778&,172,2,5543,778,ABP Ananda,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&53&66&,0
+3073,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&780&780&,172,2,12149,780,ETV News Bangla,,,,1,1,1,0,,,,,,,,,,,,,2&7&66&,0
+3074,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&782&782&,172,2,5542,782,Aakash Aath,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&23&66&,0
+3075,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&783&783&,172,9,9539,783,Kolkata TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&66&,0
+3076,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&784&784&,172,4,12196,784,Music Fatafati,,,,1,1,1,0,,,,,,,,,,,,,2&7&66&,0
+3077,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&785&785&,172,7,12228,785,Dhoom Music,,,,1,1,1,0,,,,,,,,,,,,,2&7&66&,0
+3078,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&786&786&,172,11,12160,786,Mecca Madina  24x7,,,,1,1,1,0,,,,,,,,,,,,,4&7&9&11&73&,0
+3079,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&787&787&,172,9,1549,787,Sangeet Bangla,,,,1,1,1,0,,,,,,,,,,,,,2&7&66&,0
+3080,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&788&788&,172,6,12090,788,News Time,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&53&66&,0
+3081,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&800&800&,172,11,2570,800,Asianet,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&24&67&,0
+3082,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&801&801&,172,12,12252,801,Asianet HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&7&15&67&,0
+3083,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&802&802&,172,4,7571,802,Surya TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&24&67&,0
+3084,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&803&803&,172,7,1595,803,Mazhavil Manorama,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&24&67&,0
+3085,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&804&804&,172,12,13036,804,Mazhavil Manorama HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,3&7&15&67&,0
+3086,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&805&805&,172,4,12251,805,Flowers TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&67&,0
+3087,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&806&806&,172,7,5574,806,Kairali TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&24&67&,0
+3088,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&808&808&,172,7,12006,808,Jaihind TV,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&54&67&,0
+3089,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&809&809&,172,4,12031,809,Asianet Movies,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&39&67&,0
+3090,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&810&810&,172,2,3575,810,Asianet Plus,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&24&67&,0
+3091,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&812&812&,172,5,2576,812,Amrita TV,,,,1,1,1,0,,,,,,,,,,,,,3&7&54&67&,0
+3092,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&814&814&,172,7,7572,814,Kiran TV,,,,1,1,1,0,,,,,,,,,,,,,3&7&39&67&,0
+3093,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&816&816&,172,6,4588,816,DD Malayalam,,,,1,1,1,0,,,,,,,,,,,,,3&7&54&67&,0
+3094,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&817&817&,172,4,12184,817,Surya Music,,,,1,1,1,0,,,,,,,,,,,,,2&7&67&,0
+3095,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&818&818&,172,2,6579,818,Kairali We,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&24&67&,0
+3096,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&819&819&,172,6,12093,819,Kochu TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&67&,0
+3097,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&821&821&,172,7,12092,821,MediaOne,,,,1,1,1,0,,,,,,,,,,,,,2&7&67&,0
+3098,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&822&822&,172,5,5573,822,Manorama News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&54&67&,0
+3099,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&824&824&,172,2,2577,824,Asianet News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&54&67&,0
+3100,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&827&827&,172,7,12229,827,Kappa TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&67&,0
+3101,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&828&828&,172,4,12060,828,Mathrubhumi News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&54&67&,0
+3102,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&830&830&,172,4,2694,830,Shalom TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&67&,0
+3103,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&831&831&,172,7,13122,831,Safari TV,,,,1,1,1,0,,,,,,,,,,,,,1&24&,0
+3104,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&832&832&,172,9,12236,832,Goodness TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&67&,0
+3105,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&833&833&,172,4,13139,833,People,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&54&67&,0
+3106,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&834&834&,172,4,13146,834,JANAM TV,,,,1,1,1,0,,,,,,,,,,,,,2&24&67&,0
+3107,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&840&840&,172,1,7560,840,Udaya TV,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&22&65&,0
+3108,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&842&842&,172,7,1561,842,Colors Kannada,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&22&65&,0
+3109,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&843&843&,172,6,13092,843,Colors Kannada HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&14&15&22&65&,0
+3110,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&844&844&,172,1,7562,844,Udaya Movies,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&37&65&,0
+3111,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&846&846&,172,11,3563,846,Zee Kannada,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&22&65&,0
+3112,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&848&848&,172,11,2565,848,Star Suvarna,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&22&65&,0
+3113,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&850&850&,172,2,2568,850,Kasthuri TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&65&,0
+3114,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&851&851&,172,2,12176,851,Star Suvarna Plus,,,,1,1,1,0,,,,,,,,,,,,,2&7&65&,0
+3115,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&852&852&,172,6,8567,852,DD Chandana,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&22&65&,0
+3116,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&853&853&,172,1,12186,853,Chintu TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&65&,0
+3117,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&854&854&,172,4,4593,854,Udaya Comedy,,,,1,1,1,0,,,,,,,,,,,,,4&1&7&37&65&,0
+3118,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&855&855&,172,5,13037,855,Kalki Kannada,,,,1,1,1,0,,,,,,,,,,,,,2&7&65&,0
+3119,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&0&856&856&,172,1,2566,856,Udaya Music,,,,1,1,1,0,,,,,,,,,,,,,3&6&7&65&,0
+3120,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&857&857&,172,4,12235,857,Raj Musix Kannada,,,,1,1,1,0,,,,,,,,,,,,,2&7&65&,0
+3121,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&858&858&,172,5,5564,858,TV9 Kannada,,,,1,1,1,0,,,,,,,,,,,,,2&7&65&,0
+3122,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&860&860&,172,4,6569,860,Udaya Varthegalu,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&52&65&,0
+3123,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&6&861&861&,172,7,12150,861,ETV News Kannada,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&52&65&,0
+3124,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&862&862&,172,9,4594,862,Suvarna News,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&52&65&,0
+3125,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&864&864&,172,5,12188,864,BTV News 24X7,,,,1,1,1,0,,,,,,,,,,,,,3&3&7&65&,0
+3126,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&5&866&866&,172,6,12116,866,Public TV,,,,1,1,1,0,,,,,,,,,,,,,2&7&65&,0
+3127,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&871&871&,172,2,13131,871,Colors Super,,,,1,1,1,0,,,,,,,,,,,,,2&22&65&,0
+3128,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&2&888&888&,172,3,13077,888,ETV Cinema,,,,1,1,1,0,,,,,,,,,,,,,2&7&63&,0
+3129,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&4&889&889&,172,11,13120,889,ETV Life,,,,1,1,1,0,,,,,,,,,,,,,2&20&63&,0
+3130,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&11&890&890&,172,12,13136,890,MAA HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&7&15&20&63&,0
+3131,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&891&891&,172,9,13144,891,Zee Cinemalu,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&35&63&,0
+3132,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&894&894&,172,5,13111,894,Vijay HD,,,VIDEO_FORMAT_HD,1,1,1,0,,,,,,,,,,,,,4&14&15&19&62&,0
+3133,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&1&895&895&,172,2,13107,895,Malai Murasu,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+3134,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&3&896&896&,172,5,13127,896,Madha tv,,,,1,1,1,0,,,,,,,,,,,,,2&9&62&,0
+3135,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&897&897&,172,4,13138,897,Sathiyam TV,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+3136,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&23&898&898&,172,9,13141,898,VIJAY SUPER,,,,1,1,1,0,,,,,,,,,,,,,4&3&7&49&62&,0
+3137,com.lge.android.tvinput,com.lge.android.tvinput/.dtv.DTvInputService,TYPE_OTHER,dvb://dtv&7&8&966&966&,172,4,13153,966,Naaptol Kannada,,,,1,1,1,0,,,,,,,,,,,,,4&7&14&22&65&,0
